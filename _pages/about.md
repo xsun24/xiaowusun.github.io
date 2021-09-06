@@ -19,13 +19,14 @@ Interests
 
 Publications
 ======
+- [**Provably Correct Training of Neural Network Controllers Using Reachability Analysis,**](https://arxiv.org/abs/2102.10806) \\
+<b>Xiaowu Sun</b> and Yasser Shoukry, \\
+arXiv 2021 (under review).
+
 - [**Provably&nbsp;Safe&nbsp;Model&#8209;Based&nbsp;Meta&nbsp;Reinforcement&nbsp;Learning:&nbsp;An&nbsp;Abstraction&#8209;Based&nbsp;Approach,**](https://arxiv.org/abs/2109.01255) \\
 <b>Xiaowu Sun</b>, Wael Fatnassi, Ulices Santa Cruz, and Yasser Shoukry, \\
 IEEE Conference on Decision and Control (CDC), 2021.
 
-- [**Provably Correct Training of Neural Network Controllers Using Reachability Analysis,**](https://arxiv.org/abs/2102.10806) \\
-<b>Xiaowu Sun</b> and Yasser Shoukry, \\
-arXiv 2021 (submitted to Automatica).
 
 - [**Two-Level Lattice Neural Network Architectures for Control of Nonlinear Systems,**](https://arxiv.org/abs/2004.09628) \\
 James Ferlez\*, <b>Xiaowu Sun\*</b>, and Yasser Shoukry, \\
