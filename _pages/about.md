@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html  
 ---
-I am a Ph.D. candidate in the Department of Electrical Engineering and Computer Science (EECS) at the University of California, Irvine, working with Prof. Yasser Shoukry in the Resilient Cyber-Physical Systems Lab. My research aims to develop practical verification tools and learning algorithms for Artificial Intelligence (AI) controlled autonomous systems, particularly autonomous vehicles and robots, providing safety guarantees for them to operate in uncertain environments. Currently, I am working on projects involving provably safe reinforcement learning, verification of learning-enabled cyber-physical systems, and safe human-robot interaction. 
+I am a Ph.D. candidate in the [Department of Electrical Engineering and Computer Science (EECS)](https://engineering.uci.edu/dept/eecs) at the University of California, Irvine, working with [Prof. Yasser](https://rcpsl.eng.uci.edu/yshoukry/) Shoukry in the Resilient Cyber-Physical Systems Lab. My research aims to develop practical verification tools and learning algorithms for Artificial Intelligence (AI) controlled autonomous systems, particularly autonomous vehicles and robots, providing safety guarantees for them to operate in uncertain environments. Currently, I am working on projects involving provably safe reinforcement learning, verification of learning-enabled cyber-physical systems, and safe human-robot interaction. 
 
-I moved to UC Irvine from the University of Maryland, College Park. I received my Master's degree in Physics from the University of Pittsburgh, and my Bachelor's degree in Physics from Nanjing University, China. 
+I moved to UC Irvine from the [University of Maryland, College Park](https://ece.umd.edu/). I received my Master's degree in Physics from the University of Pittsburgh, and my Bachelor's degree in Physics from Nanjing University, China. 
 
 Interests
 =====
